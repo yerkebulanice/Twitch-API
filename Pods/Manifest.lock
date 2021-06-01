@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.1)
+  - Kingfisher (6.3.0)
+  - Twitch (0.7.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - Twitch
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Twitch
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  Twitch: a23369cd14e10fe6a91d3307b840d104fe506a03
+
+PODFILE CHECKSUM: f09ed4aaa094058a1034ab602aa0eaf81eb2ff21
+
+COCOAPODS: 1.10.1
